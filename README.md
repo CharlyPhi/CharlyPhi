@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyphi&label=Profile%20views&color=0e75b6&style=flat" alt="charlyphi" /> </p>
 
-- 🔭 I’m currently working on **Pocket-Zoo**
+- 🔭 I’m currently working on **TEKI**
 
 - 🌱 I’m currently learning **Ruby on Rails, CSS, JS, React**
 
