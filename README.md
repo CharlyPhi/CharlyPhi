@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlyphi&label=Profile%20views&color=0e75b6&style=flat" alt="charlyphi" /> </p>
 
-- 🔭 I’m currently working on **TEKI**
+- 🔭 I’m currently working on various projects, and getting a job.
 
 - 🌱 I’m currently learning **Ruby on Rails, CSS, JS, React**
 
 - 👯 I’m looking to collaborate on **Other projects accessible to newcomers**
 
-- ⚡ Fun fact **I almost always undertand my own jokes.**
+- ⚡ Fun fact **I almost always understand my own jokes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
